@@ -1,2 +1,4 @@
-# simple-page
-Page about Persik
+## Мой кот Персик
+- Это простая страница https://katyi.github.io/simple-page/
+- Исользуются 2 фото кота
+- Кнопки пока не работают
