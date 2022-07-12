@@ -1,4 +1,4 @@
 ## Мой кот Персик
-- Это простая страница [посмотрите сами] https://katyi.github.io/simple-page/
+- Это простая страница [Посмотрите сами]([https://pages.github.com/](https://katyi.github.io/simple-page/)
 - Исользуются 2 фото кота
 - Кнопки пока не работают
